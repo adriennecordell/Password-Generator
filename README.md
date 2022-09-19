@@ -1,4 +1,4 @@
-# Challenge Project #2
+# Challenge Project #3
 
 ## Description
 - This applications purpose is to generate a random passsword. 
